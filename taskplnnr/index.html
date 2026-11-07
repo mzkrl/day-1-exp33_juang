@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Student Task Planner</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="planner">
+    <header>
+      <h1>Student Task Planner</h1>
+      <p class="subtitle">Keep track of your assignments and deadlines.</p>
+    </header>
+
+    <div class="filters" aria-label="Filter assignments">
+      <button type="button" data-filter="all" class="active">All</button>
+      <button type="button" data-filter="pending">Pending</button>
+      <button type="button" data-filter="completed">Completed</button>
+    </div>
+
+    <p id="emptyMessage" class="empty" hidden>No assignments match this filter.</p>
+
+    <ul id="taskList" class="task-list"></ul>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
