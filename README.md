@@ -12,6 +12,7 @@ cara memakai ai yg baik nan benar, pahami konteks penggunaan, dan dengan struktu
   - task
   - context
   - format
+kemudian, pengertian dan basic how-to dengan git dan github, disertai dengan praktik langsung.
 ### 2. Poin-poin penting atau pengetahuan baru yang dipelajari saat workshop.
 uhh, untuk pribadi sih nothing happen, soalnya udh lama berkecimpung di ginian 😅
 ### 3. Pendapat pribadi tentang Day 1 Proyek Workshop.
